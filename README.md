@@ -1,10 +1,10 @@
-# Movix
+# Movite
 A React Based Online Movie Information Website
 
-Wanna know about a partciular movie? Wanna know about the cast details, imdb rating or watch the trailer! We got you covered! Visit our site Movix right now!!!
+Wanna know about a partciular movie? Wanna know about the cast details, imdb rating or watch the trailer! We got you covered! Visit our site movite right now!!!
 <br />
 
-The site is live at https://movix-nu-coral.vercel.app/ 😍😍😍 VISIT RIGHT NOW!!!
+The site is live at https://movite-nu-coral.vercel.app/ 😍😍😍 VISIT RIGHT NOW!!!
 
 ## Tech Stack 🗃
 React | SCSS
@@ -15,20 +15,20 @@ React | SCSS
 1. `Fork` the repository  - Creates a replica of repository to your local environment.
 2. Clone the repository - Downloads all repo files to your machine, using
   ```git
-  git clone https://github.com/YOUR-USERNAME/Movix
+  git clone https://github.com/YOUR-USERNAME/movite
   ``` 
 3. Set working directory to the root directory of the project.
   ```sh
-  cd Movix
+  cd movite
   ```
 
 ## Server 💻
 
-Following are the steps to run the app on your local machine. All the code will go in the `Movix` folder.
+Following are the steps to run the app on your local machine. All the code will go in the `movite` folder.
 
-1. Navigate to `Movix` folder.
+1. Navigate to `movite` folder.
   ```sh
-  cd Movix
+  cd movite
   ```
 2. Install all the required packages and dependencies.
   ```node
